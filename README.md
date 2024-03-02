@@ -4,7 +4,9 @@
 
 DNSpector è uno strumento intuitivo e potente progettato per offrire una panoramica dettagliata e un'analisi dei record DNS di qualsiasi dominio. Fornisce agli amministratori di sistema, sviluppatori web, professionisti della sicurezza, e tecnologi entusiasti, gli strumenti necessari per scoprire informazioni essenziali sui domini, migliorare la sicurezza e ottimizzare la configurazione.
 
-![DNSpector GUI](https://imgur.com/SdGaZr1)
+# DNSpector GUI
+![image](https://github.com/ChatGPTools/DNSpector/assets/154993936/5097c049-b6cf-4599-a9b5-ccfc5830a30c)
+
 ## Caratteristiche Principali
 
 - **Ricerca Completa dei Record DNS**: Esplora i record A, AAAA, MX, TXT, e NS con facilità.
